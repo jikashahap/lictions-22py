@@ -1,0 +1,68 @@
+ctrl+alt+t comanda otkrytie terminala
+MacOS (B spotlait vvodim Terminal)
+~ - simvol domashney deriktoriy (papki)
+/ - simvol kornevoy direktorii (papki)ge
+
+.. - obaznachaet predidushiyu direktoriyu
+
+. -obaznachaet tekushuyu direktoriyu
+1. ls(list) -> vyvodit spisok vsex direktorii i failov v tekushiy direktoriy (rabochaya direktoriya)
+
+ls -a -> vyvodit spisok kak i skrytyh tak i obychnyh failov i direktorii 
+
+ls -l -> vyvodit spisok direktorii i failov s podrobnoy informasiey 
+
+2. cd ( change directory) -> menyat tekushiyu direktoriyu na ukazannuyu
+
+cd < nazvaniya direktorii>
+
+3. mkdir(make direktory) -> Sozdayot ukazannuyu direktoriyu 
+mkdir < direktoriya>
+
+4. touch -> sozdayot ukazanuy fail 
+touch <name_of_file>.<extension(rasshirenie(txt, docs))>
+mv
+5.pwd(print working directory) -> vyvodit put do tekushey direktory
+ctrl+shift+c  kopiruet terminale 
+
+ctrl+shift+v  vstavit v terminale 
+
+6) rmdir ( remove directory)  -> udalyaet ukazannuyu direktoriyu(ne mojet udalit ne pustuyu  direktoriyu) 
+
+7. rm -> udalenie failov 
+rm <name_of_file>
+
+rm -rf -> prinuditelnoe udalenie faila libo direktorii 
+
+8. mv (move)-> peremeshaet libo pereimenovyet fail libo direktoriyu, v zavisimosti ot ukazannovo vtorovo argumenta 
+
+mv <fail_direktorya> <novoe_imya -- direktoriya/>
+
+9.cat -> vyvodit soderjimoe ukazannogo faila
+
+10. nano -> otkryvaet graficheskiy interfeis v terminale dlya redaktirovanie faila
+*esli net ukazannogo faila , to sozdatsa novyi fail s takim imenem 
+
+nano <name_of_fail>
+
+11. echo -> komanda dlya bystroy zapisi dannyh v fail cherez terminal
+
+echo <text dlya zapisi> nazvanie faila
+
+
+12. cp (copy) - komanda dlya kopirovaniya faila v nujnuyu direktoriyu 
+
+cp <file_to_copy> <path>
+
+
+
+
+
+
+
+
+
+
+
+
+
